@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "Zoo\Zoo.csproj", "{7
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.lib", "Zoo.lib\Zoo.lib.csproj", "{7CAE2832-2CFC-4C34-A21C-B97105114371}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZooConsole", "ZooConsole\ZooConsole.csproj", "{1133AB26-7D05-4AD9-A621-49B639180630}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo.Cons", "ZooConsole\Zoo.Cons.csproj", "{1133AB26-7D05-4AD9-A621-49B639180630}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
