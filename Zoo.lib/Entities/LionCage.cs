@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zoo.lib
 {
-    class LionCage
+   public class LionCage
     {
 
     }
