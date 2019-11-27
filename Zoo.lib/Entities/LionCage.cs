@@ -8,7 +8,7 @@ namespace Zoo.lib
 {
    public class LionCage
     {
-        public List<Lion> Lions { get; set; }
+        public List<Lion> Lions { get; set; } = new List<Lion>();
 
         public LionCage()
         {
